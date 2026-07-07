@@ -22,5 +22,6 @@ public class InheritanceDemo
         objB.show();
         objB.display();
 
+
     }
 }
