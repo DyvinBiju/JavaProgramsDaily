@@ -1,4 +1,4 @@
-class Employee{
+class NewEmployee{
     void calculateSalary(){
         System.out.println("Employee Salary");
     }
@@ -22,7 +22,7 @@ class Intern extends Employee{
 
 public class EmployeeMain {
     public static void main(String[] args){
-        Employee e1 = new Manager();
+        newEmployee e1 = new Manager();
         Employee e2 = new Developer();
         Employee e3 = new Intern();
         e1.calculateSalary();
