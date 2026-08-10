@@ -9,6 +9,7 @@ class Student {
         this.marks = marks;
     }
 
+
     public void displayStudent() {
         System.out.println("Student Details");
         System.out.println("---------------");
